@@ -1,0 +1,9 @@
+div{
+    display: inline;
+    height: 200px;
+    background: rgb(243, 166, 166);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
